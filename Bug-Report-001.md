@@ -5,7 +5,7 @@
 **Priority:** High
 
 ## Description
-The application becomes unresponsive and the UI freezes when a user attempts to search using special characters.
+The application becomes unresponsive and the UI freezes when a user attempts to search after inputting special characters in the search bar.
 
 ## Environment
 - **Browser:** Google Chrome (Latest)
@@ -27,6 +27,6 @@ The system should either sanitise the input and show "No results found" or displ
 The browser tab freezes completely. The page becomes unclickable, requiring a hard refresh of the browser.
 
 ## Attachments
-*(In a real job, you would attach a screenshot or a screen recording here)*
+*Note:(In a real job, you would attach a screenshot or a screen recording here)*
 
 
