@@ -1,0 +1,10 @@
+   94  cd ..
+   95  pwd
+   96  mkdir Linux_Practice
+   97  cd Linux_Practice/
+   98  echo "QA Testing is the search for truth." > learning.txt
+   99  cat learning.txt 
+  100  ls
+  101  echo "Linux is essential for server-side testing." >> learning.txt
+  102  cat learning.txt 
+  103  history | tail -n 10 > linux_commands_log.txt
