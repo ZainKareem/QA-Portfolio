@@ -1,0 +1,4 @@
+total 4
+-rw-rw-r-- 1 zainab zainab 80 Apr 10 14:56 learning.txt
+-rw-rw-r-- 1 zainab zainab  0 Apr 10 15:42 permissions_demo.txt
+-rwxrwxr-x 1 zainab zainab  0 Apr 10 15:37 test_script.sh
